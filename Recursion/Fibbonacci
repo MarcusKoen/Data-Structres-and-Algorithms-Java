@@ -1,0 +1,9 @@
+    static int Fibbonacci(int n)
+    {
+        if (n==1 || n==0)
+        {
+            return n;
+        }
+        return Fibbonacci(n-1) + Fibbonacci(n-2);
+
+    }
