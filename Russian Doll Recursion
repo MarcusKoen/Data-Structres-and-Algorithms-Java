@@ -1,0 +1,12 @@
+    static void openRussianDoll(int dolls)
+    {
+        if (dolls == 1) // Base Case
+        {
+            System.out.println("All dolls opened");
+        }
+        else
+        {
+            System.out.println(dolls + " dolls left.");
+            openRussianDoll(dolls-1); // Recursive step
+        }
+    }
