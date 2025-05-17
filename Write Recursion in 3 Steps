@@ -9,3 +9,6 @@ Step 1: Recursive Case - the flow
   n!=n*(n-1)!
 Step 2: Base Case - stopping criterion
   0!=1, 1!=1
+
+Step 3: Unintentional case - the constraint
+  factorial(-1) etc. Need to ensure n always +
