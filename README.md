@@ -1,8 +1,7 @@
 <body>
   <center>
-  <link href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap" rel="stylesheet">
-    Welcome
-<h1 align="center">  WELCOME</h1>
+<h1 align="center" style="font-family: 'Metal Mania', cursive; text-transform: uppercase; letter-spacing: 2px; color: #ff0000; text-shadow: 0 0 5px #ff0000;">WELCOME</h1>
+
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣸⣿⣿⢾⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⣺⣿⣿⣇⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣼⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⡟⣼
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣿⣿⡸⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⡇⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⢿⣿⣧⣿⣿⣿⣿⠁⠀⠀⣀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⣿⣿⣿⣿⣿⣿⢹⣿
